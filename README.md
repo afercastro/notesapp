@@ -1,4 +1,5 @@
 # notesapp
 
 
-Create your user, write a note with title and content. Organize your to do list by date. JavaScript, MongoDB, NodeJS, Bootstrap and React.
+Create your user, write a note with title and content. Organize your to do list by date. JavaScript, MongoDB, NodeJS, Bootstrap and React.<br/>
+Project led by Fazt Web.
